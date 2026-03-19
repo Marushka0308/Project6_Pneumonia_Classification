@@ -14,7 +14,7 @@ Simple analogy: Imagine you're editing an essay. In a normal CNN, you'd reqrite 
 
 "Add your fixes back onto the original" IS the skip connection. The layers learn the small fix -> F(x), The original is carried forward -> x, and the final output becomes F(x) + x. 
 
-![Alt text](resnet_highway_analogy.png)
+![Alt text](resnet_analogy.png)
 
 Below is the architecture of ResNET, CNN and VGG19 for reference:
 ![Alt text](resnet_architecture.png)
