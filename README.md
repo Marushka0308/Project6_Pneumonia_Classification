@@ -1,5 +1,5 @@
 # Project6_Pneumonia_Classification
-Classification of people having pneumonia with pytorch
+Classification of people having pneumonia with Pytorch into normal or Pneumonia.
 
 ## THEORY BEHIND RESNET
 Basically:
